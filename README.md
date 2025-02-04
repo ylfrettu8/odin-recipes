@@ -1,2 +1,4 @@
 # odin-recipes
-Me propongo crear un ejemplo de web HTML utilizando los elementos aprendidos en la leccion. Ademas, pondre en practica la costumbre de usar git para almacenar mi progreso en el codigo.
+I intend to create an web example using the learnt elements from the lesson. Moreover, i'll practice the use of git and github to control my progress in this project.
+
+Commentaries aren't meant for the public.
