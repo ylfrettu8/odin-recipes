@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(249, 218, 218);
+    margin: 2.5% 2.5%;
+    border-style: dashed;
+    border-color: rgb(171, 60, 60);
+    text-align: center;
+    font-family: Arial Verdana Tahoma Times;
+    
+}
+.title{
+    text-decoration: wavy underline;
+    text-decoration-color: rgba(127, 255, 212, 0.552);
+}
+div{
+    background-color: rgb(238, 173, 173);
+    margin: 2.5% 2.5%;
+    border-style: dashed;
+    border-color: rgb(171, 60, 60);
+}
+ul, a{
+    text-align: left;
+    color: rgb(35, 33, 33);
+}
